@@ -53,3 +53,4 @@ Things to add
 - add more comments and JSDoc commenting for functions
 - Write in TypeScript to enable static typing
 - Remember open child sections when closing a parent. Currently open sections default to closed after parent is shut.
+- Highlight a question when clicking a link. Anchor links are basic and is hard to see the relevant question if that question can't be move to top of viewport.
