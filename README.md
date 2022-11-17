@@ -49,6 +49,6 @@ Things to add
 - Use a third party http library (eg axios) to cover non-supported browsers where fetch API isn't available
 - Use styled components for styling
 - Testing - Jest
-- Convert non standard tags where possible instead of stripping them eg - <glossary definition="Some text"> to <abbr title="Some text"> & <answer> to a <div>
+- Convert non standard tags where possible instead of stripping them eg - `<glossary definition="Some text">` to `<abbr title="Some text">` & `<answer>` to a `<div>`
 - add more comments and JSDoc commenting for functions
 - Write in TypeScript to enable static typing
