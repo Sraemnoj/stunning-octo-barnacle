@@ -52,3 +52,4 @@ Things to add
 - Convert non standard tags where possible instead of stripping them eg - `<glossary definition="Some text">` to `<abbr title="Some text">` & `<answer>` to a `<div>`
 - add more comments and JSDoc commenting for functions
 - Write in TypeScript to enable static typing
+- Remember open child sections when closing a parent. Currently open sections default to closed after parent is shut.
